@@ -19,10 +19,7 @@ git clone https://github.com/kirtti1000/Chess-Game.git
 
 cd Chess-Game
 
-2. Install Dependencies
-Make sure you have Python installed.
-
-Install Pygame:
+2. Install Pygame:
 
 pip install pygame
 
@@ -53,10 +50,6 @@ Pygame
 ->Highlight possible moves
 
 ->Timer and move history
-
-
-# 📄 License
-This project is open-source and available under the MIT License.
 
 # 🙌 Acknowledgements
 ->Inspired by the traditional game of chess
