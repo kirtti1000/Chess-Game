@@ -23,12 +23,14 @@ cd Chess-Game
 Make sure you have Python installed.
 
 Install Pygame:
+
 pip install pygame
 
 3. Run the Game
+
 python main.py
 
-4. Gameplay Instructions
+5. Gameplay Instructions
 
 ->Left-click on a piece to select it.
 
